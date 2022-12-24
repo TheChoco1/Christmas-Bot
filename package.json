@@ -1,17 +1,22 @@
 {
-  "name": "test-bot",
+  "name": "chrimuh-bot",
   "version": "1.0.0",
-  "description": "A test bot for discord dev badge tbh",
-  "main": "index.js",
+  "description": "A chrimuh bot tbh",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ."
   },
   "keywords": [
-    "christmas", "funny", "winter"
+    "christmas",
+    "funny",
+    "winter"
   ],
   "author": "TheChoco",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.24",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"
   },

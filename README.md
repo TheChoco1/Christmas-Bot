@@ -1,3 +1,3 @@
 # Cool Chrimuh Bot tbh
 
-Funnies
+This is pain

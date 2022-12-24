@@ -18,4 +18,3 @@ for (const folder of functionFolders) {
 client.handleEvents();
 client.handleCommands();
 client.on(token);
-

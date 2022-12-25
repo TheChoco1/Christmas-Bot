@@ -37,9 +37,20 @@ module.exports = {
                     inline: true,
                 },
                 {
-                    name: `4. `,
-                    value: `Blank`,
+                    name: `4. Do not create unnecessary drama.`,
+                    value: `This can be religious, political, or anything of the sort.`,
                     inline: false,
+                },
+                {
+                    name: `5. NSFW is not allowed.`,
+                    value: `This is a family friendly server.`,
+                    inline: true,
+
+                },
+                {
+                    name: `6. Use common sense`,
+                    value: `Just because something isn't listed here doesn't give you right to do something dumb.`,
+                    inline: true,
                 },
             ]);
 

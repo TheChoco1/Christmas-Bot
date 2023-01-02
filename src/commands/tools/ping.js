@@ -8,10 +8,10 @@ module.exports = {
         const message = await interaction.deferReply({
             fetchReply: true,
         });
-        console.log(message);
         const newMessage = `🏓 Pong! ${client.ws.ping}`;
         await interaction.editReply({
             content: newMessage,
         });
+        message.react('🏓');
     },
 };

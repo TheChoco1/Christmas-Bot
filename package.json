@@ -2,7 +2,7 @@
   "name": "chrimuh-bot",
   "version": "1.0.0",
   "description": "A chrimuh bot tbh",
-  "main": "src/index.js",
+  "main": "src/bot.js",
   "scripts": {
     "test": "node ."
   },
